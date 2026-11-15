@@ -61,10 +61,17 @@ The indirect gap is underestimated by about 55 percent relative to experiment, w
 ## References
 
 [1] S. Poncé, Y. Gillet, J. Laflamme Janssen, A. Marini, M. Verstraete, and X. Gonze, J. Chem. Phys. 143, 102813 (2015), doi:10.1063/1.4927081; erratum: J. Chem. Phys. 146, 099901 (2017).
+
 [2] G. E. Jellison and F. A. Modine, Phys. Rev. B 27, 7466 (1983).
+
 [3] R. W. G. Wyckoff, Crystal Structures, Vol. 1 (John Wiley & Sons, 1963).
+
 [4] J. P. Perdew and A. Zunger, Phys. Rev. B 23, 5048 (1981).
+
 [5] P. Giannozzi et al., J. Phys.: Condens. Matter 21, 395502 (2009).
+
 [6] P. Giannozzi et al., J. Phys.: Condens. Matter 29, 465901 (2017).
+
 [7] P. Giannozzi et al., J. Chem. Phys. 152, 154105 (2020).
+
 [8] Quantum ESPRESSO pseudopotential library, file Si.pz-vbc.UPF, https://pseudopotentials.quantum-espresso.org/upf_files/Si.pz-vbc.UPF (accessed November 2026).
