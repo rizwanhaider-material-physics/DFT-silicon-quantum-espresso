@@ -1,4 +1,4 @@
-# DFT Study of Silicon Band Structure using Quantum Espresso
+# DFT Study of Silicon Band Structure using Quantum ESPRESSO
 DFT study of silicon band structure using Quantum Espresso
 
 ## Aim
