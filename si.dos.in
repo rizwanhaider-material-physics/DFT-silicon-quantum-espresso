@@ -1,0 +1,8 @@
+&DOS
+  prefix = 'si'
+  outdir = './tmp'
+  fildos = 'si.dos'
+  emin = -8.0
+  emax = 14.0
+  deltaE = 0.02
+/
