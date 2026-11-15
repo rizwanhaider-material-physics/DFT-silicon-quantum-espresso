@@ -11,7 +11,7 @@ Quantum ESPRESSO, BURAI, VESTA, and Python with NumPy and Matplotlib.
 First, convergence tests for cutoff energy and k-points. Second, self-consistent calculation. Third, band structure and density of states. Fourth, comparison with literature.
 
 ## Status
-In progress. Results will be added after the calculations are completed.
+SCF calculation is complete, converged in six iterations. Results will be added after the calculations are completed.
 
 ## Author
 Rizwan Haider, BS Physics, Thal University Bhakkar
