@@ -76,7 +76,6 @@ The calculated indirect gap is about 55 percent below experiment. This is the kn
 - `gap.py`, `plot_bands.py`, `plot_dos.py`: analysis and plotting scripts
 - `si_bands.png`, `si_dos.png`: figures
 
-The pseudopotential file is not included. Download it from [8] and place it so that the inputs find it at `../pseudo/Si.pz-vbc.UPF`.
 
 ## How to reproduce
 
