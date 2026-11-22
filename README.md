@@ -1,4 +1,4 @@
-# Electronic Structure of Crystalline Silicon from DFT (Quantum ESPRESSO)
+## First-Principles Band Structure and Density of States of Crystalline Silicon (DFT-LDA, Quantum ESPRESSO)
 
 *Self-directed learning project, November 2026. Author: Rizwan Haider, BS Physics, Thal University Bhakkar, Pakistan.*
 
@@ -109,9 +109,9 @@ The workflow was guided with the help of an AI assistant (Claude, Anthropic). Al
 
 [1] S. Poncé, Y. Gillet, J. Laflamme Janssen, A. Marini, M. Verstraete, and X. Gonze, J. Chem. Phys. 143, 102813 (2015), doi:10.1063/1.4927081; erratum: J. Chem. Phys. 146, 099901 (2017).
 
-[2] G. E. Jellison and F. A. Modine, Phys. Rev. B 27, 7466 (1983).
+[2] G. E. Jellison and F. A. Modine, Phys. Rev. B 27, 7466 (1983), as cited in [1].
 
-[3] R. W. G. Wyckoff, Crystal Structures, Vol. 1 (John Wiley & Sons, 1963).
+[3] R. Wyckoff, Crystal Structures, Vol. 1 (John Wiley & Sons, 1963), as cited in [1].
 
 [4] J. P. Perdew and A. Zunger, Phys. Rev. B 23, 5048 (1981).
 
